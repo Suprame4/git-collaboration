@@ -84,3 +84,4 @@ git pull partner main
 There are a number of ways you can resolve the problem you are currently experiencing. The solution you will use now is particularly helpful if you don't need to keep any of the changes you have made since your last commit (like if you accidentally edited a file).
 
 3. Type `git stash`. Your repository should revert to your last commit. Now when you do git status you should see that your working tree is clean. You should now be able to successfully pull from Partner B's repo. Go ahead and do so now.
+This is Adrian
